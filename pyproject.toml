@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = "==3.12.*"
 license = { file = "LICENSE" }
 authors = [
-    { name = "Ashish Saraswat", email = "40425481+AshiSaraswat@users.noreply.github.com" },
+    { name = "Ashish Saraswat"},
+    { name = "Sourav Gulati"},
 ]
 
 dependencies = [
