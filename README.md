@@ -135,11 +135,45 @@ df.write.format("excel") \
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+### Development Guidelines
+- Follow PEP 8 style guidelines
+- Write comprehensive tests for new features
+- Update documentation for API changes
+- Use type hints throughout the codebase
+
+## Authors and Maintainers
+
+### Authors
+- [Ashish Saraswat](https://github.com/AshiSaraswat)
+- [Sourav Gulati](https://github.com/sgulati89)
+
+### Maintainers
+- [Ashish Saraswat](https://github.com/AshiSaraswat)
+- [Sourav Gulati](https://github.com/sgulati89)
+
+### Acknowledgments
+
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this project in your research or work, please cite:
+
+```bibtex
+@software{pyspark_excel_datasource,
+  author = {Saraswat, Ashish and Gulati, Sourav},
+  title = {PySpark Excel Data Source Connector},
+  url = {https://github.com/AshiSaraswat/pyspark-excel-datasource},
+  version = {0.1.0},
+  year = {2024}
+}
+```
